@@ -1,5 +1,6 @@
-## Hi there 👋
+## Uriel Ortiz
 
+**Técnico Electronico** - *Estudiante de Ingenieria - UTN Frh*
 <!--
 **UrielOrtiz-Prog/UrielOrtiz-Prog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
